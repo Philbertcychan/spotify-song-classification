@@ -24,9 +24,9 @@ This project utilizes a Random Forest classifier to predict song popularity base
 <pre>
   spotify-song-classification/
 ├── data/
-│ └── spotify_dataset.csv
+│ └── Spotify Song Attributes.csv
 ├── notebooks/
-│ └── spotify_classification.ipynb
+│ └── spotify-song-classification-with-random-forest.ipynb
 ├── visuals/
 │ └── feature_importance.png
 ├── README.md
